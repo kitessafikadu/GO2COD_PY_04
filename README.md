@@ -6,7 +6,7 @@ It uses the Tkinter library to create a graphical interface where users can inpu
 ## Features
 
 * User-friendly GUI built with Tkinter
-* Allows users to input weight and height in metric units (kg and meters)
+* Allows users to input weight and height in metric units (kg and centimeters)
 * Calculates BMI based on user input
 * Displays BMI result along with a category label (e.g., Underweight, Normal weight, Overweight, Obese)
 
